@@ -1,0 +1,8 @@
+{
+  "configuration": {
+    "key" : "your_api_key",
+    "base" : "https://api.openweathermap.org/data/2.5/weather?",
+    "hour" : "https://api.openweathermap.org/data/2.5/onecall?",
+    "air" : "http://api.openweathermap.org/data/2.5/air_pollution?"
+  }
+}
